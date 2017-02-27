@@ -1,0 +1,341 @@
+                                                    /*section-1*/
+#s1 {
+  background: #f25222;
+  background-image: url(../img/map.png);
+  background-position: left;
+  background-repeat: no-repeat;
+  padding: 25px 0 150px;
+  height: auto;
+}
+
+.poct {
+  height: auto;
+}
+
+.left-poct {
+  height: auto;
+}
+
+.poct-logo{
+  margin-top: 10px;
+  height: auto;
+}
+
+.poct-phone{
+  height: 24px;
+  box-sizing: border-box;
+  margin: 3px 8px 0px 0px;
+  border-left: 1px solid #fff;
+  padding-left: 20px;
+  line-height: 44px;
+  font-weight: bold;
+  font-size: 1.3em;
+  margin-top: 10px;
+  color: #fff;
+}
+
+.poct-phone img{
+  margin-right: 12px;
+  margin-top: 10px;
+}
+
+.lang {
+  margin: 0px 0 2.5px 8px ;
+  height: 30px;
+  background: #f25222;
+  color: #fff;
+  font-size: 1.25em;
+  border: 0;
+  border-color: transparent;
+  font-weight: bold;
+  margin-top: 18px;
+}
+
+                                                      /*top-right-side*/
+
+.topright-text {
+  font-size: .78em;
+  height: 45px;
+  line-height::45px;
+  color: #fff;
+  height: 100%;
+  text-align: center;
+  font-family: azeri;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-top: 10px;
+  margin-right: 5px;
+}
+
+.count {
+  font-size: 1.8em;
+  color: #fff;
+  height: 100%;
+  line-height: 45px;
+  padding-left: 5px;
+  font-family: azeri;
+  font-weight: bold;
+}
+
+.tehvil-verilmis-senedler label:last-child {
+  text-align: right;
+}
+
+.poct-btn {
+  text-decoration: none;
+  text-align: center;
+  background-color: #fbc222;
+  font-family: azeri;
+  font-size: 14px;
+  padding: 18px 24px;
+  border: none;
+  outline: none;
+  border-radius: 4px;
+  transition: all 0.1s ease-in-out;
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  max-height: 54px;
+  min-width: 202px;
+  max-width: 250px;
+}
+
+.right-poct a:hover {
+  box-sizing: border-box;
+  border: 1px solid #fbc222;
+  background-color: #fff;
+  box-shadow: 0px 0px 15px 0px #f25222;
+}
+
+.poct-btn img {
+  vertical-align: middle;
+}
+
+#s2>.layout>.row>h1 {
+  color: #191919;
+  font-family: azeri;
+  font-size: 26px;
+  text-align: center;
+  margin: 50px auto;
+}
+
+                                            /*medium-header*/
+.heading-text h1{
+  font-size: 14px;
+  color: black;
+  text-transform: uppercase;
+  font-weight: bold;
+  opacity: 0.5;
+  font-family: sans-serif;
+  font-size: 34px;
+  color: white;
+  text-transform: uppercase;
+  font-family: azeri;
+  padding-right:200px;
+  color: #fff;
+}
+.heading-content {
+  margin-top: 100px;
+  color: #fff;
+}
+.image-holder {
+  margin-right:
+}
+.heading-text p {
+  font-family: azeri;
+  color: white;
+}
+.heading-text p i{
+  color: orange;
+}
+
+
+                                                  /*sened axtarisi*/
+.sened-axtar{
+  background: #fff;
+  height: auto;
+  padding: 30px 34px;
+}
+
+.sened-axtar h1 {
+  font-size: 16px;
+  font-family: azeri;
+  text-align: center;
+  font-weight: 800;
+  color: #000;
+}
+.sened-axtar p {
+  font-size: 12px;
+  font-family: azeri;
+  line-height: 15px;
+  text-align: left;
+  color: #000;
+  margin-left: 20px;
+}
+.sened-axtar i{
+  color: orange;
+}
+.sened-axtar select {
+  color: black;
+  display: block;
+  width: 88%;
+  margin: 27px 20px;
+  border-radius: 4px;
+  border-bottom: 1px solid #d7d7d7;
+  padding: 5px 0px;
+
+  border-color: transparent;
+  background: transparent;
+}
+.sened-axtar select option {
+  text-align: center;
+}
+.sened-axtar a {
+  color: #191919;
+  font-family: azeri;
+  font-size: 18px;
+  width: 88%;
+  border-color: transparent;
+  outline: none;
+  border-radius: 4px;
+  padding: 20px 0px;
+  background-color: #fbc222;
+  transition: all 0.1s ease-in-out;
+  display: inline-block;
+  margin-left: 20px;
+  box-sizing: border-box;
+}
+
+.sened-axtar a:hover {
+  box-sizing: border-box;
+  border: .1px solid #fbc222;
+  background-color: #fff;
+  box-shadow: 0px 0px 15px 0px lightgray;
+}
+
+.items-heading {
+  font-size: 16px;
+  text-decoration: none !important;
+  margin-bottom: 0;
+}
+
+.items-parag {
+  font-size: 14px;
+  text-decoration: none !important;
+  margin-top: 5px;;
+}
+                                                /*        SECTION 2        */
+
+#s2 {
+  background-color: #F5F5F5;
+  padding: 50px;
+
+}
+#s2 .layout .row a.user{
+  height: 160px;
+  padding: 50px 30px;
+  background-color: #fff;
+  border-radius: 5px;
+  margin-bottom: 30px;
+  box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.11);
+  transition: all .2s ease-in-out;
+  min-height: 130px;
+  display: block !important;
+  width: 23%;
+  box-sizing: border-box;
+  display: block;
+  color: #000;
+}
+
+#s2 .layout .row a:hover {
+  box-shadow: 0px 0px 15px 0px pink;
+}
+
+#s2 .layout .row {
+  height: auto;
+  margin: auto;
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: space-between !important;
+  flex-wrap: wrap !important;
+}
+.daha-cox-btn {
+  display: inline-block;
+  height: 40px;
+  font-size: 14px;
+  line-height: 40px;
+  background: #F5F5F5;
+  border: 1px solid #f25222;
+  border-radius: 3px;
+  text-decoration: none;
+  color: #000;
+  text-align: center;
+  margin: auto;
+}
+.daha-cox-btn:hover {
+  background: #f25222;
+  border-color: #000;
+  box-shadow: 1px 2px 2px gray;
+  text-shadow: 1px 2px 2px gray;
+}
+
+
+                                          /*            SECTION-3         */
+#s3 {
+  background: #fff;
+  box-sizing: border-box;
+  padding: 50px;
+}
+#s3 .layout .row img {
+  width: 42%;
+  margin: 0px auto;
+}
+#s3 .layout .row .icons-container .icons:last-child img {
+  width: 33%;
+}
+.icons-container {
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: space-between !important;
+}
+.icons {
+  text-align: center;
+}
+.icons-text{
+  font-size: 14px;
+  font-family: azeri;
+  text-shadow: 1px 1px 1px gray;
+}
+
+                        /*              FOOTER SECTION                      */
+#s4{
+  box-sizing: border-box;
+  padding: 40px 0;
+}
+#s4 .layout .row {
+  border-top: 1px solid gray;
+}
+#s4 .layout .row {
+  box-sizing: border-box;
+  padding: 40px 0 0;
+}
+
+.e-mail-icon {
+  margin: 18px;
+}
+
+.call-icon {
+  margin: 18px;
+}
+
+.poctap-logo {
+  margin: 15px 0 0 33px;
+}
+.e-mail p {
+  margin-right: 56px;
+}
+
+
+
+
+                                                        /*hovers*/
